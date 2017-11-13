@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlatformAutomation1", "PracticePlatformAutomation\PlatformAutomation1.csproj", "{DEA7B42B-5153-40BF-8F8C-6C7940171647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlatformTests1", "PracticePlatformTests\PlatformTests1.csproj", "{AAE25AC2-91EF-4613-9175-72D6C3C093CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEA7B42B-5153-40BF-8F8C-6C7940171647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA7B42B-5153-40BF-8F8C-6C7940171647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA7B42B-5153-40BF-8F8C-6C7940171647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA7B42B-5153-40BF-8F8C-6C7940171647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAE25AC2-91EF-4613-9175-72D6C3C093CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE25AC2-91EF-4613-9175-72D6C3C093CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE25AC2-91EF-4613-9175-72D6C3C093CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE25AC2-91EF-4613-9175-72D6C3C093CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8505660B-8400-400D-A3CC-3E6695B00E12}
+	EndGlobalSection
+EndGlobal
